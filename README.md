@@ -16,16 +16,13 @@ A complete, production-quality bioinformatics pipeline for analyzing **real PacB
   - Concordance with PacBio calls  
 - Fully reproducible with **pixi**
   
----
-
-## Example Figures
+## Figures
 
 - **pacbio_analysis_summary.png** – QC and pipeline summary for simulated reads  
 - **pacbio_hifi_real_summary.png** – QC and pipeline summary for real sample  
 - **variant_positions_comparison.png** – Longshot vs PacBio reference variant positions along the genome  
 - **snp_density_comparison.png** – SNP density comparison (Longshot vs PacBio)  
 
----
 
 ## Data Source
 
