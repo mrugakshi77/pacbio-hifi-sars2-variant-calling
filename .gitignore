@@ -1,0 +1,31 @@
+# =============================
+# Python / Jupyter / Pixi
+# =============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+pixi.lock
+pixi.toml
+
+# =============================
+# Sequencing Reads (Large files)
+# =============================
+reads/hifi_samples/*.fastq
+reads/hifi_samples_filtered/*.fastq
+reads/samples.hifi_reads.fastq.zip
+reads/simulated_pacbio.fastq
+
+# =============================
+# Aligned BAM files (Large)
+# =============================
+aligned/*.bam
+aligned/*.bai
+
+# =============================
+# Variants / Output Files (Large)
+# =============================
+variants/*.vcf
+variants/*.vcf.zip
