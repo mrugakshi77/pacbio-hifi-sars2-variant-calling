@@ -15,7 +15,7 @@ A complete, production-quality bioinformatics pipeline for analyzing **real PacB
   - SNP/indel breakdown  
   - Concordance with PacBio calls  
 - Fully reproducible with **pixi**
-- 
+  
 ---
 
 ## Example Figures
